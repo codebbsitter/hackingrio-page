@@ -22125,7 +22125,7 @@ var $async$X4=A.Y(function(a,b){if(a===1)return A.U(b,r)
 while(true)switch(s){case 0:if($.G==null)A.aqc()
 $.G.toString
 s=2
-return A.T($.ii().xK(0,".env"),$async$X4)
+return A.T($.ii().xK(0,"dotenv"),$async$X4)
 case 2:A.ra(new A.anI(),new A.anJ(),"cache",B.Vx)
 $.aqG=A.a54()
 if($.G==null)A.aqc()
